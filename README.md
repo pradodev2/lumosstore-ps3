@@ -4,6 +4,16 @@
 
 A **Lumos Store** é um aplicativo homebrew para PlayStation 3 com CFW, escrito em C e desenvolvido a partir do [PKGi PS3](https://github.com/bucanero/pkgi-ps3). O projeto reúne navegação por catálogo, informações dos títulos, imagens e gerenciamento de downloads em uma interface própria.
 
+## Interface
+
+Capturas reais da Lumos Store no PS3.
+
+![Tela inicial da Lumos Store](docs/screenshots/inicio.png)
+
+| Explorar o catálogo | Detalhes do jogo |
+| --- | --- |
+| ![Catálogo da Lumos Store](docs/screenshots/explorar.png) | ![Detalhes de um jogo na Lumos Store](docs/screenshots/detalhes.png) |
+
 O projeto está em desenvolvimento ativo. Recursos e comportamento podem mudar entre versões.
 
 > [!IMPORTANT]
